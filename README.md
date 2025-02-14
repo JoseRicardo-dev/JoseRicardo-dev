@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoseRicardo-dev
 - 👀 I’m interested in Data Science and IA
-- 🌱 I’m currently learning MAchine learning and Large Language Model
+- 🌱 I’m currently learning Machine learning and Large Language Model
 - 💞️ I’m looking to collaborate on IA projects
 - 📫 How to reach me (jrdev2030@yahoo.com)
 - 😄 Pronouns: ...
